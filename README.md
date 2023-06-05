@@ -1,3 +1,10 @@
 # 1pc.co.il
 ToDo
-<a href="https://1pc.co.il">מחשבים בישראל</a>
+ <h1>Links from 1pc.co.il</h1>
+    <ul>
+        <li><a href="https://1pc.co.il/he/customer/info">החשבון שלי</a></li>
+        <li><a href="https://1pc.co.il/he/%D7%9E%D7%97%D7%A9%D7%91%D7%99%D7%9D-%D7%90%D7%99%D7%A9%D7%99%D7%99%D7%9D">מחשבים נייחים ו-AIO</a></li>
+        <li><a href="https://1pc.co.il/he/%D7%9E%D7%97%D7%A9%D7%91%D7%99%D7%9D-%D7%A0%D7%99%D7%99%D7%93%D7%99%D7%9D">מחשבים ניידים</a></li>
+        <li><a href="https://1pc.co.il/he/%D7%98%D7%90%D7%91%D7%9C%D7%98%D7%99%D7%9D-%D7%95%D7%A7%D7%95%D7%A8%D7%90%D7%99-%D7%A1%D7%A4%D7%A8%D7%99%D7%9D">טאבלטים וספרים אלטרוניים</a></li>
+        <li><a href="https://1pc.co.il/he/%D7%A1%D7%9E%D7%90%D7%A8%D7%98%D7%A4%D7%95%D7%A0%D7%99%D7%9D">סמארטפונים</a></li>
+    </ul>
